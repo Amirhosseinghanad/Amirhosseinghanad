@@ -1,1 +1,1 @@
-<h1>AmirhosseinGHANAD 👋</h1>
+<h1 alin='center'>AmirhosseinGHANAD 👋</h1>
