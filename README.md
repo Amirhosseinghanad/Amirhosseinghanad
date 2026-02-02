@@ -1,1 +1,1 @@
-<h1 alin='center'>AmirhosseinGHANAD 👋</h1>
+<h1 align='center'>AmirhosseinGHANAD 👋</h1>
